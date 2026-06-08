@@ -1,10 +1,12 @@
 # ⛓ CampusChain AI — Fraud Detection Dashboard
+## 📸 Dashboard Preview
+
+![CampusChain Dashboard](screenshots/dashboard.png)
 
 > Blockchain-Powered Campus Financial Ecosystem with Real-Time AI Fraud Detection  
 > Built for hackathon demo — React + Solidity + Polygon Mumbai
 
 ---
-
 ## 🚀 Quick Start (5 minutes to running demo)
 
 ### 1. Install dependencies
